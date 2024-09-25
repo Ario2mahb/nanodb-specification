@@ -4,7 +4,7 @@
 meta:
   id: nanodb
   title: Nano Ledger Database Binary Format
-  license: BSD 2-Clause
+  license: BSD 2-Clause8767
   endian: le
 
 enums:
